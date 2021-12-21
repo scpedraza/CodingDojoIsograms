@@ -15,7 +15,6 @@ class CodingDojoIsogramsTest {
         assertEquals(false, CodingDojoIsograms.isIsogram("aba"));
         assertEquals(false, CodingDojoIsograms.isIsogram("moOse"));
         assertEquals(true, CodingDojoIsograms.isIsogram("thumbscrewjapingly"));
-        assertEquals(true, CodingDojoIsograms.isIsogram(""));
     }
 
 }
